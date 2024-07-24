@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, writing, games, the unreal engine
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: al106729@ucf.edu
+- 📫 How to reach me: x.galvega@gmail.com
 
 <!---
 agalvezv/agalvezv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
