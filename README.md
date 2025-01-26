@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agalvezv
-- 👀 I’m interested in programming, writing, mixed reality and game engines!
+- 👀 I’m interested in making my own games, data science and mixed reality!
 - 🌱 I’m currently learning python and using it in small projects.
 - 💞️ I’m looking to collaborate on any projects. Feel free to each out to me!
 - 📫 How to reach me: x.galvega@gmail.com
